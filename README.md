@@ -100,11 +100,18 @@ Tokens are used only for the local session. Do not commit tokens or `.env` files
 - [Sample Report](docs/sample-report.md)
 - [Governance Use Cases](docs/governance-use-cases.md)
 
-## Related Projects
+## Technology Leadership Portfolio
 
-- [CTO Operating System](https://github.com/serewicz/cto-operating-system): CTO frameworks, operating models, and governance templates.
-- [Executive AI Advisor](https://github.com/serewicz/Executive-AI-Advisor): document ingestion, diligence analysis, cited executive outputs, and 100-day plans.
-- [K8s Platform Blueprint](https://github.com/serewicz/k8s-platform-blueprint): implementation patterns for platform governance, FinOps, observability, and Kubernetes controls.
+This repository is part of a broader Technology Leadership Portfolio: a practical system for assessing, operating, governing, implementing, and measuring technology organizations.
+
+| Layer | Repository | Purpose |
+|---|---|---|
+| Methodology | [CTO Operating System](https://github.com/serewicz/cto-operating-system) | Defines CTO, diligence, governance, board reporting, and operating partner frameworks |
+| Assessment | [Executive AI Advisor](https://github.com/serewicz/Executive-AI-Advisor) | Converts company documents into diligence reports, board briefs, CRA readiness assessments, AI governance assessments, and 100-day technology plans |
+| Implementation | [K8s Platform Blueprint](https://github.com/serewicz/k8s-platform-blueprint) | Provides implementation patterns for platform governance, FinOps, observability, policy controls, and compliance evidence |
+| Measurement | [Engineering Operating Metrics](https://github.com/serewicz/engineering-operating-metrics) | Measures delivery flow, review quality, rework, engineering cost, AI usage cost, risk, and engineering governance |
+
+This repository provides the measurement layer. See [Technology Leadership Portfolio](docs/Technology-Leadership-Portfolio.md).
 
 ## Repository Status
 
