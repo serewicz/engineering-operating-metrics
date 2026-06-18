@@ -66,6 +66,18 @@ Pull request counts, lines of code, and comment volume do not tell a CTO whether
 - risky changes without review
 - policy and operating exceptions
 
+## AI Cost Governance
+
+Engineering Operating Metrics can be extended to track AI-related operating metrics such as external provider spend, local inference cost, retrieval usage, adoption trends, and AI-assisted delivery cost.
+
+Metrics may include:
+
+- external LLM provider spend
+- local inference cost
+- retrieval/search usage
+- AI-assisted PR or workflow cost
+- adoption trends by team or workflow
+
 ## Demo Mode
 
 Demo Mode uses fictional PR data from `data/sample-prs.json`. It works without a GitHub token and is intended for executive demos, portfolio reviews, and product development.
